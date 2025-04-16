@@ -1,0 +1,11 @@
+{
+  "grant_type": "password",
+  "client_id": "3MVG9GCMQoQ6rpzSwmPecHM_iyKqc4bwGCbp9KzW2jtzxlaPdJpNLhQj.sFZC1e6.l.BHnltnUjVQj40WOlwZ",
+  "client_secret": "D3F9CDC3AD622A4AF7D8437F9FB924FCD00FFB47DD2774CD5DF3916531C36D27",
+  "username": "mayank_shrivastava1@curious-panda-w4yri6.com",
+  "password": "Random@2684oWylWIUUwAcoj9jPlzQXugVf",
+  "login_url": "https://login.salesforce.com",
+
+  "TOTAL_REQUESTS": 25,
+  "BATCH_SIZE": 5
+}

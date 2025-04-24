@@ -1,0 +1,11 @@
+{
+  "grant_type": "password",
+  "client_id": "CONNECTED_APP_CLIENT_ID",
+  "client_secret": "CONNECTED_APP_CLIENT_SECRET",
+  "username": "Your_SFDC_Username",
+  "password": "Password + Security Token",
+  "login_url": "https://login.salesforce.com",
+
+  "TOTAL_REQUESTS": 25,
+  "BATCH_SIZE": 5
+}
